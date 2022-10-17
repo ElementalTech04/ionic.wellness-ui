@@ -1,0 +1,7 @@
+{
+  "name": "wellness-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
